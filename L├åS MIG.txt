@@ -1,0 +1,15 @@
+Vanilla Copenhagen – Catalogue AW 2027 – HTML-flipbook
+
+Sådan bruges den:
+- Lokalt: åbn index.html i en browser (hele mappen skal ligge samlet).
+- Online: upload HELE mappen (index.html, data.js, pages/ og thumbs/) til jeres webhotel,
+  fx vanillacopenhagen.dk/catalogue-aw27/ – så er linket .../catalogue-aw27/index.html
+- Direkte link til en side: tilføj #p=24 til adressen (fx .../index.html#p=24).
+
+Funktioner: bladre-animation (pile, piletaster, swipe, klik i sidekant), Forside, Alle sider,
+Indhold, Søg (produkt, farve, varenummer), Fuld skærm, kategorilinje nederst med de 4 top-kategorier.
+Klikbare links: forside → indhold, Traede/B2B-login, GPSR, indholdsfortegnelse, mail, telefon, website.
+
+VIGTIGT: Åbn ikke index.html direkte inde i zip-filen – pak hele zip-filen ud først
+(højreklik › Udpak alle), og åbn index.html i den udpakkede mappe.
+Til hurtig visning eller deling som én fil: brug "Vanilla Copenhagen Catalogue AW 2027.html".
